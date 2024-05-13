@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ArthurMorgan\OneDrive\Desktop\programowanie obiektowe\Laboratoria 2\AISD - projekt 1\AISD - projekt 1\Str.h(16,1): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  AISD - projekt 1.vcxproj -> C:\Users\ArthurMorgan\OneDrive\Desktop\programowanie obiektowe\Laboratoria 2\AISD - projekt 1\x64\Debug\AISD - projekt 1.exe
