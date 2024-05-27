@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\ArthurMorgan\OneDrive\Desktop\2_semestr\JakDojade\JakDojade\str.h(25,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  priority_queue.h
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\ArthurMorgan\OneDrive\Desktop\2_semestr\JakDojade\JakDojade\hash_map.h(62): warning C4172: returning address of local variable or temporary: index
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JakDojade.vcxproj -> C:\Users\ArthurMorgan\OneDrive\Desktop\2_semestr\JakDojade\x64\Release\JakDojade.exe
